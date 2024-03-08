@@ -19,7 +19,7 @@ public class imt {
         }
         if (result > 24.9 && result < 29.9)
         {
-            System.out.println("У вас избуточный вес");
+            System.out.println("У вас избыточный вес");
         }
         if (result > 29.9)
         {
